@@ -20,4 +20,4 @@ Weather=np.array(Weather)
 Weather=np.transpose(Weather)
 Weather[:,4]=Weather[:,4]+273.15
 A=np.insert(Weather,-1,values=Weather[8759],axis=0)
-print('Success!')
+print('Success!！')

@@ -80,4 +80,4 @@ HY=ReadStringData(FileName,'Ba',1,2)#读取有关信息
 Ax=Detail_Meteo_data(HY,A)
 Ax=np.array(Ax)
 print(Ax[0])
-print(Ax[1])
+print(Ax[2])
